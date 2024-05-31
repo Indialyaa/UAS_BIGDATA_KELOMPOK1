@@ -1,7 +1,4 @@
-<b> ANALISIS PENGELUARAN PER KAPITA DI
-PROVINSI/KABUPATEN/KOTA DI INDONESIA BERDASARKAN
-JENIS KELAMIN: IMPLEMENTASI DECISION TREE REGRESSOR
-DENGAN APACHE SPARK <b> 
+<b> prediksi persetujuan peminjaman menggunakan machine learning  <b> 
 
 ![image](https://github.com/Indialyaa/UAS_BIGDATA_KELOMPOK1/assets/118242692/3f5ed0b6-526c-4901-8c0e-129cf8d0f0c8)
 
